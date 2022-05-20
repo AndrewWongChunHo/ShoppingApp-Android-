@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/Final/app/src/main/res/drawable-v24/profile_linearlayout_style.xml" value="0.26153846153846155" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/Final/app/src/main/res/drawable-v24/profile_linearlayout_style2.xml" value="0.26153846153846155" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/Final/app/src/main/res/drawable-v24/profile_linearlayout_style3.xml" value="0.26153846153846155" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/Final/app/src/main/res/layout/activity_login.xml" value="0.1265625" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/Final/app/src/main/res/layout/activity_product_detail.xml" value="0.1265625" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/Final/app/src/main/res/layout/fragment_cart.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/Final/app/src/main/res/layout/fragment_profile.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/Final/app/src/main/res/layout/fragment_search.xml" value="0.1265625" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/Final/app/src/main/res/layout/item_view.xml" value="0.1265625" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/drawable-v24/profile_linearlayout_style.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/drawable-v24/profile_linearlayout_style2.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/drawable/btn_res.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/drawable/frame_52.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/drawable/search_view_bg.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/layout/activity_home.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/layout/activity_opening_animation.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/layout/activity_product.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/layout/activity_search.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/layout/catergory_view.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/layout/fragment_profile.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/layout/fragment_search.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/layout/item_view.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/ITP4203_EA_PROJECT_GROUP2/app/src/main/res/menu/bottom_navigation.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/OOP_EA_Project/app/src/main/res/layout/cart_view.xml" value="0.225" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/OOP_EA_Project/app/src/main/res/layout/fragment_cart.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/OOP_EA_Project/app/src/main/res/layout/fragment_profile.xml" value="0.136" />
+        <entry key="..\:/Users/Patino/AndroidStudioProjects/OOP_EA_Project/app/src/main/res/layout/item_view.xml" value="0.1265625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

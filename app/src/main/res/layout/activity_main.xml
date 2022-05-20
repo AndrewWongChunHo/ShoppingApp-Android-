@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Welcome -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/welcome"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clipToOutline="true"
+    android:background="@drawable/welcome"
+    android:elevation="43dp">
+
+    <RelativeLayout
+        android:id="@+id/frame_52"
+        android:layout_width="263dp"
+        android:layout_height="81dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp">
+
+        <TextView
+            android:id="@+id/welcome_bac"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center_horizontal|top"
+            android:lineSpacingExtra="7sp"
+            android:text="@string/welcome_bac"
+            android:textAppearance="@style/welcome_bac"
+            android:translationY="-3.38sp" />
+
+        <TextView
+            android:id="@+id/welcomeText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="0dp"
+            android:layout_marginBottom="14dp"
+            android:gravity="center_horizontal|top"
+            android:lineSpacingExtra="5sp"
+            android:text="@string/welcomeText2"
+            android:textAppearance="@style/welcomeText2"
+            android:translationY="-2.5sp" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="336dp"
+        android:layout_height="387dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="90dp"
+        android:gravity="center_horizontal|top"
+        app:srcCompat="@drawable/icon" />
+
+    <RelativeLayout
+        android:id="@+id/cta"
+        android:layout_width="295dp"
+        android:layout_height="130dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="100dp"
+        android:background="@drawable/login_reg">
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="@drawable/btn_login"
+            android:gravity="center"
+            android:onClick="LOGIN"
+            android:text="LOG-IN"
+            android:textColor="@color/white"
+            android:textSize="25dp" />
+
+        <Button
+            android:id="@+id/btn_res"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/btn_res"
+            android:gravity="center"
+            android:onClick="REGISTER"
+            android:text="REGISTER"
+            android:textColor="@color/blue"
+            android:textSize="25dp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/btn_forgetPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="40dp"
+        android:gravity="center"
+        android:onClick="FORGET"
+        android:text="Forget Password?"
+        android:textColor="@color/white" />
+
+</RelativeLayout>
+
+
+

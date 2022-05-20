@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">project_text</string>
+    <string name="welcomeText2">
+        Get your favourite gadgets
+    </string>
+
+    <string name="welcome_bac">
+        Welcome Back!
+    </string>
+
+    <string name="LoginTv1">
+        - Stay up to date with our latest products -
+    </string>
+
+    <string name="Login_facebook">
+        Continue with Facebook
+    </string>
+
+    <string name="Login_google">
+        Continue with Google
+    </string>
+
+    <string name="Register_facebook">
+        Continue with Facebook
+    </string>
+
+    <string name="Register_google">
+        Continue with Google
+    </string>
+
+    <string name="ForgetPassword">
+        Forget Password?
+    </string>
+
+    <string name="ForgetPassword_hints">
+        If you forget your password, please enter email and check your email address!
+    </string>
+
+    <string name="home_pd_category">
+        Category
+    </string>
+
+    <string name="home_pd_NewIn">
+        New In
+    </string>
+
+    <string name="home_pd_AllProduct">
+        All Product
+    </string>
+
+    <string name="profile">
+        My Account
+    </string>
+
+    <string name="profile_emailTitle">
+        Your Email :
+    </string>
+
+    <string name="profile_user">
+        Your Account
+    </string>
+
+    <string name="profile_logout">
+        Logout
+    </string>
+
+    <string name="profile_setting">
+        Settings
+    </string>
+    <!--    Product_Name And Price-->
+    <string name="pd_z690f_name">
+        ROG STRIX Z690-F GAMING WIFI
+    </string>
+
+    <string name="pd_z690f_price">
+        HK$3180
+    </string>
+
+    <string name="pd_rtx3050oc_name">
+        ROG Strix GeForce RTX™ 3050 OC Edition 8GB
+    </string>
+
+    <string name="pd_rtx3050oc_price">
+        HK$3570
+    </string>
+
+    <string name="pd_g733zm_LL045W_2022_name">
+        ROG Strix Scar 17 (2022) G733ZM-LL045W
+    </string>
+
+    <string name="pd_g733zm_LL045W_2022_price">
+        Hk$18650
+    </string>
+
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="product1">
+        <item>ONE SIZE</item>
+    </string-array>
+
+</resources>
